@@ -4,7 +4,9 @@ We propose a sample-wise dynamic, attention-enhanced LSTM that adapts its comput
 <p align="center">
   <a href="LSTM_Research.pdf"><b>📄 Read the Full Report (PDF)</b></a>
 </p>
+
 ---
+
 ## Problem & Motivation
 Predicting human decisions from conversational text is crucial for human–AI interaction, safety, and adaptive assistance. Prior work (Shapira et al., 2023) found a simple LSTM surprisingly outperformed transformer baselines on this task. We revisit this setting and investigate whether attention and dynamic computation can close the gap while remaining efficient.
 ---
